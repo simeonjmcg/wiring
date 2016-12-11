@@ -35,3 +35,12 @@ body {
 	padding: 0;
 	border: 0;
 }
+
+.node {
+	position: absolute;
+}
+
+.line {
+	border: 1px solid black;
+	position: absolute;
+}
